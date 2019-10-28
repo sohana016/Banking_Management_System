@@ -8,9 +8,11 @@ Java Swing & MySQL Requirements
 Online Banking system wants to develop there all Financial transaction using a Desktop Application. They want to record all there members and investors information (personal & transaction). Overview there whole deposit and investment and print individual statement.
 
 Requirements analysis
+
 Create Saving A/C
 
 Record Transaction Summary
+
 Deposite
 
 Withdraw
